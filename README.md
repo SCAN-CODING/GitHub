@@ -119,7 +119,10 @@ repository open
    https://mytory.net/archives/11213      
    https://svgontheweb.com/ko/       
    
-
+## 19.01.2020
+   이미지 변경 https://www.jquery-az.com/html-img-src-image-source-attribute-with-path-possibilities-5-examples/
+   http://mwultong.blogspot.com/2006/12/html-image-size.html
+   
    
    
    
