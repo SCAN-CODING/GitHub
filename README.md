@@ -1,5 +1,16 @@
 # A. GitHub_Tutorial
 
+All the codes are tested and working fine.
+
+The chapter which contains code files are:
+Chapter 1
+Chapter 2
+Chapter 4
+Chapter 5
+Chapter 6
+
+Note: Chapter 3 does not have any code file, for this you need to create test organization in GitHub.
+
 ## 11.01.2020
 ### Setting
 git 설치     
