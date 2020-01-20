@@ -125,8 +125,8 @@ repository open
    
 ## 20.01.2020
    구글 아날리틱 https://www.thewordcracker.com/intermediate/add-google-analytics-to-wordpress/         
-   https://analytics.google.com/analytics/web/provision/?hl=ko&pli=1#/provision/create         
-   
-   24 시간 후 확인 https://support.google.com/analytics/answer/1009683?hl=en&utm_id=ad
+   https://analytics.google.com/analytics/web/provision/?hl=ko&pli=1#/provision/create            
+   https://rextarx.github.io/jekyll/2017/02/03/Applying_Google_Analytics_to_a_blog_using_Jekyll/     
+   https://intellego.tistory.com/78 설치 성공      
    
    
