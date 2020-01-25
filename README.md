@@ -129,4 +129,5 @@ repository open
    https://rextarx.github.io/jekyll/2017/02/03/Applying_Google_Analytics_to_a_blog_using_Jekyll/     
    https://intellego.tistory.com/78 설치 성공      
    
-   
+## 25.01.2020
+   CV 적용 https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html
