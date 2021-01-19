@@ -1,7 +1,11 @@
-A. GitHub_Tutorial
+Git & GitHub
 
-All the codes are tested and working fine.
+Git:
 
+지옥에서 온 Git, <https://opentutorials.org/course/2708>
+git을 구경합시다! - GIT1. <https://opentutorials.org/module/3733>
+
+GitHub:
 The chapter which contains code files are:
 Chapter 1
 Chapter 2
