@@ -1,11 +1,18 @@
-Git & GitHub
+Git
+<hr>
 
-Git:
+This is the practice space of the Git & GitHub
 
-지옥에서 온 Git, <https://opentutorials.org/course/2708>
-git을 구경합시다! - GIT1. <https://opentutorials.org/module/3733>
+## Git:
 
-GitHub:
+Git reference:
+GIT1, <https://opentutorials.org/module/3733>
+
+## GitHub:
+
+Github reference:
+github, <https://opentutorials.org/module/4636>
+
 The chapter which contains code files are:
 Chapter 1
 Chapter 2
